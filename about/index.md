@@ -7,5 +7,5 @@
  # Work with me
  
  I am currently open to work opportunities, either on a one time/project basis or as a full-time position. Feel free to 
- contact me [here](/contact)
+ contact me [here](/contact).
  
